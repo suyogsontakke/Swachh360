@@ -1,0 +1,6 @@
+{
+  "name": "SWACHH360",
+  "description": "Smart Civic. Cleaner Communities. Urban slum sanitation and waste management tracker connecting citizens, municipal supervisors, and sanitation workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
